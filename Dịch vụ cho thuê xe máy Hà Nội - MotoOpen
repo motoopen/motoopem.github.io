@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Moto Open - Dịch vụ cho thuê xe máy tại Hà Nội</title>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Moto Open",
+    "image": "http://motoopen.com/wp-content/uploads/2023/04/cropped-MotoOpen.webp",
+    "@id": "",
+    "url": "https://motoopen.com",
+    "telephone": "0857255868",
+    "priceRange": "150,000 - 1,000,000 VND",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "110 Nguyễn Văn Cừ",
+      "addressLocality": "Bồ Đề, Long Biên",
+      "addressRegion": "Hà Nội",
+      "postalCode": "100000",
+      "addressCountry": "VN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 21.040817,
+      "longitude": 105.8689459
+    },
+    "openingHoursSpecification": [
+      {
+      "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Thứ Hai",
+          "Thứ Ba",
+          "Thứ Tư",
+          "Thứ Năm",
+          "Thứ Sáu",
+          "Thứ Bảy",
+          "Chủ Nhật"
+        ],
+        "opens": "09:00",
+        "closes": "21:00"
+      }
+    ],
+    "sameAs": [
+      "https://m.facebook.com/motoopenvn",
+      "https://www.pinterest.com/motoopen12/",
+      "https://twitter.com/motoopen",
+      "https://m.youtube.com/channel/UC2GGvYyeJGaOgSi5U5btqrw",
+      "https://www.instagram.com/motoopen/",
+      "https://www.flickr.com/people/motoopen/",
+      "https://www.linkedin.com/in/motoopen"
+    ]
+  }
+  </script>
+</head>
+<body>
+  <h1>Moto Open - Dịch vụ cho thuê xe máy tại Hà Nội</h1>
+  <p>Moto Open là địa chỉ cho thuê xe máy uy tín tại Hà Nội, thành lập từ năm 2009 bởi bà Công Thị Tân – mẹ của Nguyễn Hữu Hào (Tên Thương Hiệu Moto Open). Trải qua một quá trình phát triển dài và đầy thử thách, Moto Open đã và đang trở thành một trong những địa chỉ cho thuê xe máy hàng đầu tại Hà Nội.</p>
+  
+  <h2>Tầm nhìn và sứ mệnh của Moto Open</h2>
+  <p>Moto Open là địa chỉ cho thuê xe máy hàng đầu tại Hà Nội với tầm nhìn trở thành đối tác tin cậy của khách hàng trong lĩnh vực cho thuê xe máy. Sứ mệnh của Moto Open là cung cấp dịch vụ cho thuê xe máy an toàn, chất lượng và tiện ích cho khách hàng.</p>
+
+  <h3>Tầm nhìn</h3>
+  <p>Với tầm nhìn trở thành đối tác tin cậy của khách hàng, Moto Open luôn nỗ lực để đáp ứng những nhu cầu của khách hàng với dịch vụ cho thuê xe máy chất lượng và tiện ích nhất. Moto Open mong muốn trở thành địa chỉ cho thuê xe máy hàng đầu tại Hà Nội với chất lượng dịch vụ tốt nhất và giá cả hợp lý nhất.</p>
+
+  <h3>Sứ mệnh</h3>
+  <p>Sứ mệnh của Moto Open là cung cấp dịch vụ cho thuê xe máy an toàn, chất lượng và tiện ích cho khách hàng. Đội ngũ nhân viên của Moto Open luôn nỗ lực để đáp ứng những yêu cầu của khách hàng với sự tận tâm và chuyên nghiệp nhất. Moto Open cam kết cung cấp những sản phẩm xe máy mới nhất và đảm bảo vệ sinh sạch sẽ, an toàn cho khách hàng.</p>
+
+  <h2>Tổng kết</h2>
+  <p>Moto Open đã trải qua một quá trình phát triển dài và đầy thử thách. Với sự cố gắng của đội ngũ nhân viên và sự tin tưởng của khách hàng, Moto Open đã và đang trở thành một địa chỉ cho thuê xe máy hàng đầu tại Hà Nội.</p>
+
+  <p>Với tầm nhìn trở thành địa chỉ cho thuê xe máy hàng đầu tại Hà Nội và sứ mệnh cung cấp dịch vụ cho thuê xe máy an toàn, chất lượng và tiện ích cho khách hàng, Moto Open đang không ngừng nỗ lực và phát triển để đáp ứng nhu cầu của khách hàng ngày càng tốt hơn.</p>
+</body>
